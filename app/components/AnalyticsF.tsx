@@ -5,13 +5,15 @@ const AnalyticsFeature = () => {
   return (
     <div className="pt-24 pb-24">
       <div className="w-[90%] sm:w-[80%] mx-auto items-center grid grid-cols-1 lg:grid-cols-2 gap-10">
-        <Image
-          src="/assets/a.jpg"
-          alt="Analytics image"
-          width={500}
-          height={500}
-          className="object-contain"
-        />
+        <div data-aos="fade-up" data-aos-anchor-placement="top-center">
+          <Image
+            src="/assets/a.jpg"
+            alt="Analytics image"
+            width={500}
+            height={500}
+            className="object-contain"
+          />
+        </div>
         <div className="p-6">
           <h1 className="text-base font-semibold text-orange-400">
             Audience tracking and insights

@@ -15,7 +15,10 @@ const Hero = () => {
                 We have updated our terms and conditions policy.
               </p>
             </div>
-            <h1 className="text-2xl sm:text-4xl md:text-5xl mt-6 mb-6 font-bold md:loading-[3rem] lg:leading-[3.5rem]">
+            <h1
+              data-aos="fade-up"
+              className="text-2xl sm:text-4xl md:text-5xl mt-6 mb-6 font-bold md:loading-[3rem] lg:leading-[3.5rem]"
+            >
               The premier workspace companion for your daily needs
             </h1>
             <p className="text-gray-700">
@@ -41,7 +44,11 @@ const Hero = () => {
             </div>
           </div>
           {/* img content */}
-          <div className="hidden lg:block">
+          <div
+            data-aos="fade-up"
+            data-aos-delay="200"
+            className="hidden lg:block"
+          >
             <Image
               src="/assets/hero.png"
               alt="hero image"

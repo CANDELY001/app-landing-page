@@ -28,7 +28,7 @@ const Testimonial = () => {
       </h1>
       <div className="mt-20 w-[90%] md:w-[80%] mx-auto">
         <Carousel
-          arrows={false}
+          arrows={true}
           responsive={responsive}
           infinite={true}
           autoPlay={true}
