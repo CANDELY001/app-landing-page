@@ -29,12 +29,24 @@ const HomePage = () => {
   return (
     <>
       <ResponsiveNav />
-      <Hero />
-      <WhyChose />
-      <AnalyticsFeature />
-      <Feature />
-      <Testimonial />
-      <Pricing />
+      <div id="home">
+        <Hero />
+      </div>
+      <div id="about">
+        <WhyChose />
+      </div>
+      <div id="">
+        <AnalyticsFeature />
+      </div>
+      <div id="feature">
+        <Feature />
+      </div>
+      <div id="testimonial">
+        <Testimonial />
+      </div>
+      <div id="">
+        <Pricing />
+      </div>
       <Explore />
       <Footer />
     </>

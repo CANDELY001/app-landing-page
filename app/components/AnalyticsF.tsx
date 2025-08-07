@@ -23,27 +23,27 @@ const AnalyticsFeature = () => {
             customizable.
           </h1>
           <p className="mt-4 text-gray-600 text-sm font-medium leading-[2rem]">
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Vitae,
-            esse? Eligendi quidem dicta impedit natus perspiciatis quisquam
-            obcaecati, libero assumenda nihil magni nemo accusamus non magnam.
-            Quisquam veritatis temporibus accusamus.
+            Unlock the power of data-driven decisions with our comprehensive
+            analytics suite. Track user engagement, monitor performance metrics,
+            and gain actionable insights to optimize your workflow and boost
+            productivity across your entire organization.
           </p>
           <ul className="mt-7 space-y-2 text-gray-800">
             <li className="flex items-center font-semibold">
-              <FaCheckCircle className="text-green-500 mr-2" /> Chat prompt
-              module support
+              <FaCheckCircle className="text-green-500 mr-2" /> Real-time data
+              visualization and reporting
             </li>
             <li className="flex items-center font-semibold">
-              <FaCheckCircle className="text-green-500 mr-2" /> Enjoy unlimited
-              features by paid plan
+              <FaCheckCircle className="text-green-500 mr-2" /> Advanced user
+              behavior tracking and insights
             </li>
             <li className="flex items-center font-semibold">
-              <FaCheckCircle className="text-green-500 mr-2" /> Mange ultimate
-              conversation
+              <FaCheckCircle className="text-green-500 mr-2" /> Customizable
+              dashboards and KPI monitoring
             </li>
           </ul>
           <button className="mt-8 px-8 py-3 bg-gray-100 text-gray-800 font-semibod rounded-full hover:bg-blue-800 transition-all duration-200 hover:text-white">
-            Explore More &rarr;
+            Learn More About Analytics &rarr;
           </button>
         </div>
       </div>

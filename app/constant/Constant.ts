@@ -1,8 +1,8 @@
 export const navLinks = [
-  { id: 1, label: "Home", url: "#" },
-  { id: 2, label: "About", url: "#" },
-  { id: 3, label: "Feature", url: "#" },
-  { id: 4, label: "Testimonial", url: "#" },
-  { id: 5, label: "Blog", url: "#" },
-  { id: 6, label: "Contact", url: "#" },
+  { id: 1, label: "Home", url: "#home" },
+  { id: 2, label: "About", url: "#about" },
+  { id: 3, label: "Feature", url: "#feature" },
+  { id: 4, label: "Testimonial", url: "#testimonial" },
+  { id: 5, label: "Blog", url: "#blog" },
+  { id: 6, label: "Contact", url: "#contact" },
 ];

@@ -22,10 +22,10 @@ const Hero = () => {
               The premier workspace companion for your daily needs
             </h1>
             <p className="text-gray-700">
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Modi,
-              aspernatur iure ut dignissimos aut eum ipsam. Sapiente quia velit
-              eum veritatis doloribus non hic repellat a, exercitationem
-              incidunt omnis iusto!
+              Boost your productivity with our all-in-one workspace app.
+              Streamline your workflow, manage tasks efficiently, and
+              collaborate seamlessly with your team. Download now for iOS and
+              Android to transform how you work and achieve your goals faster.
             </p>
             {/* Playstore and Appstore buttons */}
             <div className="flex mt-8 mb-8 items-center space-x-4">

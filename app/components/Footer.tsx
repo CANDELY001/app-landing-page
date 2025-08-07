@@ -69,7 +69,8 @@ const Footer = () => {
         {/** Bottom Section */}
         <div className="mt-8 border-t pt-8 flex flex-col md:flex-row justify-between items-center text-gray-600 text-sm">
           <p className="text-center md:text-left">
-            © 2024 Appify. All rights reserved.
+            © 2025 Appify - Productivity & Workspace Management App. All rights
+            reserved.
           </p>
           <div className="flex items-center space-x-4 mt-4 md:mt-6">
             <span>Social :</span>
